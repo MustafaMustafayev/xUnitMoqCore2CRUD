@@ -1,0 +1,12 @@
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.deps.json
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.csprojAssemblyReference.cache
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.AssemblyInfoInputs.cache
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.AssemblyInfo.cs
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.csproj.CopyComplete
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Entities\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.csproj.CoreCompileInputs.cache

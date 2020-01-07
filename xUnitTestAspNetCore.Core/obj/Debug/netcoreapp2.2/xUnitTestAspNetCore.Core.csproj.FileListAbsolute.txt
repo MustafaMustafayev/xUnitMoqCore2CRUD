@@ -1,0 +1,9 @@
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Core\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.deps.json
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Core\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Core\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.csprojAssemblyReference.cache
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Core\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.AssemblyInfoInputs.cache
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Core\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.AssemblyInfo.cs
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Core\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Core\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Core\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Core\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.csproj.CoreCompileInputs.cache

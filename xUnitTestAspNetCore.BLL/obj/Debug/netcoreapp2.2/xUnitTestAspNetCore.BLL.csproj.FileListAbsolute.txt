@@ -1,0 +1,16 @@
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.deps.json
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.csprojAssemblyReference.cache
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.csproj.CoreCompileInputs.cache
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.AssemblyInfoInputs.cache
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.AssemblyInfo.cs
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.DAL.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.DAL.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.BLL\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.csproj.CopyComplete
