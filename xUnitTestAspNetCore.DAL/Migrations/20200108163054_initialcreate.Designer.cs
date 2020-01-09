@@ -9,7 +9,7 @@ using xUnitTestAspNetCore.DAL.Contexts;
 namespace xUnitTestAspNetCore.DAL.Migrations
 {
     [DbContext(typeof(UserDataContext))]
-    [Migration("20200107181837_initialcreate")]
+    [Migration("20200108163054_initialcreate")]
     partial class initialcreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -22,9 +22,7 @@ namespace xUnitTestAspNetCore.DAL.Migrations
 
             modelBuilder.Entity("xUnitTestAspNetCore.Entities.Models.User", b =>
                 {
-                    b.Property<int>("userId")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                    b.Property<int>("userId");
 
                     b.Property<string>("userMail");
 

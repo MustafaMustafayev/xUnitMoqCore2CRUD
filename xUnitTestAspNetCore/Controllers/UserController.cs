@@ -48,7 +48,7 @@ namespace xUnitTestAspNetCore.Controllers
             return response;
         }
 
-        [HttpPost("deleteUser{id}")]
+        [HttpPost("deleteUser/{id}")]
         public async Task<IActionResult> deleteUser(string id)
         {
             User user = await _user.getById(id);

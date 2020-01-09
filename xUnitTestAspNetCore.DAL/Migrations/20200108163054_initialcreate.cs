@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
+﻿using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace xUnitTestAspNetCore.DAL.Migrations
 {
@@ -11,8 +10,7 @@ namespace xUnitTestAspNetCore.DAL.Migrations
                 name: "Users",
                 columns: table => new
                 {
-                    userId = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                    userId = table.Column<int>(nullable: false),
                     userName = table.Column<string>(nullable: true),
                     userPassword = table.Column<string>(nullable: true),
                     userMail = table.Column<string>(nullable: true)

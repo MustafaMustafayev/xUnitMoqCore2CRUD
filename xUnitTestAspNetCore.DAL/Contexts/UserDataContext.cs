@@ -13,7 +13,12 @@ namespace xUnitTestAspNetCore.DAL.Contexts
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=DESKTOP-DPCC3SS\\MUSTAFA;Database=xUnitDb;Trusted_Connection=true");
-           // base.OnConfiguring(optionsBuilder);
+            base.OnConfiguring(optionsBuilder);
+        }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.Entity<User>().Property(e => e.userId).ValueGeneratedNever();
         }
 
         // dotnet ef migrations add initialcreate --context UserDataContext

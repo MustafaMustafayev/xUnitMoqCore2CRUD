@@ -23,7 +23,7 @@ namespace xUnitTestAspNetCore.Core.CRUDRepo
                 return HttpStatusCode.Created;
             }
         }
-
+         
         public async Task<HttpStatusCode> delete(TEntity entity)
         {
             using (var context = new TContext())
