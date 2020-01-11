@@ -37,6 +37,10 @@ namespace xUnitTestAspNetCore.Controllers
         [HttpPost("addUser")]
         public async Task<HttpStatusCode> addUser([FromBody] User user)
         {
+            if (!ModelState.IsValid)
+            {
+                return HttpStatusCode.BadRequest;
+            }
             HttpStatusCode response = await _user.add(user);
             return response;
         }
@@ -44,20 +48,30 @@ namespace xUnitTestAspNetCore.Controllers
         [HttpPost("updateUser")]
         public async Task<HttpStatusCode> updateUser([FromBody] User user)
         {
+            if (!ModelState.IsValid)
+            {
+                return HttpStatusCode.BadRequest;
+            }
             HttpStatusCode response = await _user.update(user);
             return response;
         }
 
         [HttpPost("deleteUser/{id}")]
-        public async Task<IActionResult> deleteUser(string id)
+        public async Task<HttpStatusCode> deleteUser(string id)
         {
             User user = await _user.getById(id);
             if (user != null)
             {
                 HttpStatusCode response = await _user.delete(user);
-                return Ok(response);
+                return response;
             }
-            return NotFound("User does not exist!");
+            return HttpStatusCode.NotFound;
+        }
+
+        [HttpGet]
+        public void ok()
+        {
+
         }
     }
 }

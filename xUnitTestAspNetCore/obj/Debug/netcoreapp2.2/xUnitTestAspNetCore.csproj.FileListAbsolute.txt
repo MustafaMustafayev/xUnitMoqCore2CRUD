@@ -1,7 +1,6 @@
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.DAL.dll
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.dll
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.csprojAssemblyReference.cache
-D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.csproj.CoreCompileInputs.cache
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.RazorAssemblyInfo.cache
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.RazorAssemblyInfo.cs
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.AssemblyInfoInputs.cache
@@ -21,3 +20,4 @@ D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\bin\Deb
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.pdb
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.dll
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.csproj.CoreCompileInputs.cache

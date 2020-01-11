@@ -1,6 +1,5 @@
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.deps.json
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.dll
-D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.csproj.CoreCompileInputs.cache
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.AssemblyInfoInputs.cache
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.AssemblyInfo.cs
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.csprojAssemblyReference.cache
@@ -9,3 +8,18 @@ D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\b
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
 D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.DAL.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.BLL.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Core.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.DAL.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\bin\Debug\netcoreapp2.2\xUnitTestAspNetCore.Entities.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.csproj.CopyComplete
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.dll
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.pdb
+D:\MyFiles\MyModels\ASP_NET_CORE\xUnitTestAspNetCore\xUnitTestAspNetCore.Tests\obj\Debug\netcoreapp2.2\xUnitTestAspNetCore.Tests.csproj.CoreCompileInputs.cache
