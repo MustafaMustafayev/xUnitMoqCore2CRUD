@@ -25,6 +25,7 @@ namespace xUnitTestAspNetCore.IntegrationTest.UserRepoIntegrationTest
 
                 response.EnsureSuccessStatusCode();
                 response.StatusCode.Should().Be(HttpStatusCode.OK);
+                
             }
         }
 
